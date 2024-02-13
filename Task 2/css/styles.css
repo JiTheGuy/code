@@ -1,0 +1,47 @@
+html{
+    background-color:#1f22be(255, 255, 255);
+    font-size: 15px;
+    font-family: 'Comic Sans MS', sans-serif;
+}
+
+
+.home body{
+    background-color:#ececee;
+    font-size: 15px;
+}
+
+
+.home div{
+    background-color:rgb(230, 230, 230)
+    font-size 15px;
+}
+
+
+.home p{
+    font-size: 1rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:rgb(244, 244, 247);
+    padding: 10px;
+    margin: 10px;
+}
+
+.home img{
+    
+    padding-left: 50px;
+    padding-bottom: 5%;
+}
+
+.nav li a:hover{
+    background-color: rgb(9, 5, 250);
+    color: #ffffff;
+}
+
+.nav li{
+    font-size: 25px;
+}
+
+.nav ul{
+    list-style-type: none;
+}
+
+
